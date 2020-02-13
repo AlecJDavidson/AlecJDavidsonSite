@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    background-color: #e4f9f5;
+}
+
+h1 {
+    font-size: 6em;
+    margin-top: 100px auto 0 auto;
+    font-family: 'Sacramento', sans-serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: xx-large;
+}
+
+.programmer-text {
+    font-size: xx-large;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+.top-container {
+    position: relative;
+    padding: 100px;
+    top: 50;
+}
+
+.avatar {
+    width: 10%;
+    height: 10%
+}
+
+p {
+    font-size: 30px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.contact-me {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding-bottom: 2%;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.savvy {
+    float: left;
+    width: 20%;
+    height: 20%;
+    padding: 0 30px 0 0;
+}
+
+.gundam {
+    float: right;
+    width: 20%;
+    height: 20%;
+    padding: 0 0 0 0;
+}
+
+.printing {
+    float: left;
+    width: 20%;
+    height: 20%;
+    padding: 0 30px 0 0;
+}
+
+.signature {
+    font-size: small;
+}
+
+hr {
+    width: 10em;
+    border-top: dotted 7px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    color: lightgray;
+}
+
+.footer-link {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
